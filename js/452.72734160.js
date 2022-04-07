@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkroutertest"]=self["webpackChunkroutertest"]||[]).push([[452],{3452:function(e,r,t){t.r(r),t.d(r,{default:function(){return f}});var u=t(3396),n=t(7139);const s={class:"user"};function a(e,r,t,a,c,o){return(0,u.wg)(),(0,u.iD)("div",s,[(0,u._)("h1",null,(0,n.zw)(e.$route.params.user)+"님의 정보입니다",1)])}var c={name:"UserView"},o=t(89);const i=(0,o.Z)(c,[["render",a]]);var f=i}}]);
+//# sourceMappingURL=452.72734160.js.map
